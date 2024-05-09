@@ -6,3 +6,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+react-app-template/.cache/
+react-app-template/dist/
+react-app-template/node_modules/
+webSocketServer/node_modules/
